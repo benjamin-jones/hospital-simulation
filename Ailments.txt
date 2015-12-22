@@ -1,0 +1,22 @@
+Allergic Reaction:Wheezing or difficulty breathing;Hives;Swelling of body part;Itching.
+Broken Bone:Loss of function in the injured area;Swelling or bruising over a bone;Deformity of an arm or leg.
+Bronchitis:Hacking Cough;Clear, yellow, white, or green phlegm;Low-grade fever;Soresness and tightness in chest.
+Burn:Intense pain of the skin;Blistering of the skin.
+Heart Attack:Nausea or vomiting;Shortness of breath;Pain and discomfort beyond chest;Chest discomfort.
+Insect/Snake Bite: Lightheadedness and confusion;Hives and reddening of the skin;Swelling of body part;Shock.
+Labor:Bloody or brownish discharge from Cervix;Diarrhea;Water broke;Contractions.
+Scabies:Itchy skin;Irritated Skin;Pimply rash;Red, dry, scaly rash on skin.
+Strep Throat:Mild fever;Hoarseness;Sore throat;Swollen glands in the neck.
+Cold:Sore throat;Clear, watery nasal drainage;Sneezing;Low-grade fever.
+Flu:Headache;Extreme fatigue;High fever;General aches and pains.
+Shingles:Sensitivity to light;Headache;Itchy Rash;Rash on one side of the body.
+Yeast Infection:Painful intercourse;Painful urination;Vaginal burning;Vaginal itching.
+West Nile Virus:Swelling of the spinal cord;Swelling of the brain.
+Ulcers:Heartburn;Burning upper abdominal pain;Tarry, black, or bloody stools;Bloating.
+Smallpox:Headache;Flat red rash on upper body;Dome-shaped red spots filled with pus.
+Syphilis:Swelling of the lymph nodes;Rash on palms of the hands and soles of the feet;Small open sores containing pus;Genital Sores.
+Ringworm:Dry, brittle hair or hair loss in patches;Severe Itching; Red-ringed patch of small blisters or scaly skin.
+Pink Eye:Burning, itchy eyes;Excessive "tearing up";Discharge of mucus from eyes;Redness of the eyes.
+Poison Ivy, Oak, or Sumac:Itching;Red Streaks or general redness on skin;Small bumps or larger raised areas;Blisters filled with fluid.
+Lupus:Fever;Joint pains;Fatigue;Temporary loss of cognitive abilities.
+Irritable Bowl Syndrome:Chronic abdominal pain;Discomfort;Bloating;Alteration of bowl habits.

@@ -1,0 +1,6 @@
+9.0:Josh Hay;
+8.7:Ben Jones;
+8.6:Ben Zerhusen;
+8.6:Josh Hay;
+8.0:Benjamin Jones;
+0.0:Dr. B;
